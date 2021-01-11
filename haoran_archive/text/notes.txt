@@ -1,0 +1,61 @@
+trigger分享/不同的语境
+
+出发点 经典好莱坞式的名字 写作的出发点 并不是中文 西方影视作品 引用 还原那些作品 
+可以在媒体考古学的语境下讨论，但是
+中文创作者的个例 
+辛未的作品更反映中文的结构，中英文切换，中英文替代性，交互方式，再加日文，法文，对文段的长度和宽度做一定压缩和调整，字的结构没有影响到作品的构成。大致的长度要一样长，文段在外观上有一定区别，设计师的角度上，理想程度，做不同字宽的字体，压缩的方式在字体的层面上有一定的差别，弥补文段的长度，在三幕之间
+
+ php如何影响写作
+技术上的实现没有太使用php
+Html, js和css 
+
+第一幕的十个故事，滚动速度，长宽比例，边做网站，边写内容，十个故事都写完之后，写了两幕，根据安德森的长度来写别的长度，有长度的限制。预想的大概的情节。
+批量用php
+
+视差滚动，46-80行
+
+488行 小点点 文段滚动到什么位置，小点点出现在位置时，切换图片，call back是换图片
+partImage是加载图片
+判断滑动位置小点点
+由滚动速度决定 第三幕由滚动速度有变化，合并滚动速度，
+
+另外一点 媒体考古学的关系，实现的 效率远高于这里的技术，如processing p5.js 脚本 用最基础的html css js 无第三方的插件
+
+英文小说，从中间开始翻，是什么书？（）/choose your own adventure 游戏性，交互性强的书，实体的出版物，比较多，影响比较大。史丹利的寓言The Stanley Parable的开发者Davey Wreden(?)，基于网页的故事，基于codeless的建站技术，点点点的交互，配着声音，非常初级的层面影响到。出发点，看到的作品，不是以文本形式呈现的作品，Rybczyński的tango ，结构上特别像，剪贴画一样的影响，很多人物，人物的对位，一开始的想法 - 戏剧，影视作品里的群戏，实际的关注点只在主人公里，逼真但是没有任何意义的场景，出发点是这样的。浅谈对位法
+
+如果不是超链接的话，是怎么样的组织/理解/处理信息的方式呢？parallel scrolling 交互阅读 组织叙事 特定的阅读的角度，不见得，不是完全的特殊的，突出了阅读的某一个状态， 基于一种体验，多组人物，多个对话叙事同时的速率，给人的感受是不一样的，同时阅读文本，音量，这个写作方式传达出来的特性。有意思的点是，并没有想要把作品做成一个网页的形式，单屏幕的影像，加十个音轨，后来才用网页来表达。字体的差别来体现 - 文字本身比较宽，比较长 - 停留时间更久，看得更清楚，转译音量在实际场景里/影像里的差别。
+
+写作完全没有忠于媒介 讨论声音实验 仅有的联系就是网站， 但是再讲完全不同的作品 
+
+3月开学 现在不在学校 1月5号 做申请
+Biyi 1 月14号开学 年前准备 年后组织
+Trigger可借鉴的形式：aaajiao提出的建议：长远意义上的想法和讨论 写作的一些困扰 折衷的作品 用网页去做写作的作品 另外一个是做作曲的作品创作很重要的一个特性 就是折衷 compromise 在compromise之下为了实现概念 选择了这种形式  业余性 没有明确的解决方案 写作可以通过具体的过程来？？写作技术 创作的主体成分以外的东西不要有那么大压力 音乐的作品 三个音乐实验 steve rei ch? 艾可建议的 避开视角 放开reference 十个故事视角是评论性的 不是一个自发的 基于作品的作品 引用 评价 在一个合适的机会下很值得被讨论 
+
+作品介绍顺序：
+1. 十个故事
+10 stories, a story is a web experience presented in the form of ten parallax scrolling lines of text telling ten short stories that happened in the same diner at the same period of time.    
+    
+Anderson, an Unaccomplished and disregarded middle-aged man,  keeps encountering strange things over the course of three cups of coffee.    
+Kramer, a private detective, accidentally discovers a terrorist plot, secretly observes the target for new clues with his assistant Gray .    
+Corporate executive Mueller invites former employees Milhaud and Haynes to negotiate in an attempt to reach an agreement to end the price war and achieve a business settlement.    
+Daniel, a cautious young musician, and Wilson, a painter with a penchant for exaggeration, discuss the art of performance.    
+After a film screening, young lovers Ruth and Tim get stuck in a communication rut.    
+The Webers, along with their son, Clermont, and daughter, Lily, are constantly arguing over trivial matters at the dinner table.    
+Mrs. Chou, the owner of the restaurant, who is often treated as a waitress, observes the various customers and recalling the past of running the diner.    
+Stone, Walde and there others, the self-proclaimed last Western followers of the Central Asian religion Zoroastrianism, make final plans and preparations for their impending revenge.    
+The mysterious Duke of Berry recites poetry to himself in bizarrely chic ancient clothing.    
+Freshman theatre students David and Al randomly share opinions and talk about the possibilities of a new kind of theatre that is multilinear,  simultaneous and without background.    
+
+Ten Stories begins with the relatively isolated plots of ten groups of characters, and over the course three acts, these plots are gradually interconnected and influenced, eventually bringing the ten stories together.    
+Hastily and completely amateurishly written, these stories come from borrowing and copying the fragmnets of interviews and television dramas, from my own experience, and from my simple imitations and impressions on theatres and films - a story that is recommended for only a quick scroll through and no need for perusal. Throughout the story, all the actions of all the characters in the scene are preserved and displayed.    
+
+文段的长度和宽度做一定压缩和调整，字的结构没有影响到作品的构成。大致的长度要一样长，文段在外观上有一定区别，设计师的角度上，理想程度，做不同字宽的字体，压缩的方式在字体的层面上有一定的差别，弥补文段的长度，在三幕之间
+
+show source code
+488行 小点点 文段滚动到什么位置，小点点出现在位置时，切换图片，call back是换图片
+partImage是加载图片
+判断滑动位置小点点
+由滚动速度决定 第三幕由滚动速度有变化，合并滚动速度，
+
+另外一点 媒体考古学的关系，实现的 效率远高于这里的技术，如processing p5.js 脚本 用最基础的html css js 无第三方的插件
+

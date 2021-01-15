@@ -5,7 +5,7 @@ In order to minimize duplicated efforts, Biyi created a git repository to collec
 
 ## Contents to upload:  
 1. biography text. 
-2. archival content. 
+2. archival content, as image or as text.
 
 ## Folder structure 
 ```
@@ -17,10 +17,11 @@ $panelistName_archive/
     └── other_text.txt
 ```
 
-Folder: $panelistName_archive
-Subfolder: images, for images of work (from yourself or references) mentioned during the presentation. 
+__Folder__: $panelistName_archive
 
-Subfolder: text, bio.txt (bio.txt as a placeholder file, you are welcome to upload a text file in other editable formats :). Please include other texts you'd like to include, for example texts about your work and research (i.e. introductory text on your work, notes, bibiliography, etc)
+__Subfolder__: images, for images of work (from yourself or references) mentioned during the presentation. 
+
+__Subfolder__: text, bio.txt (bio.txt as a placeholder file, you are welcome to upload a text file in other editable formats :). Please include other texts you'd like to include, for example texts about your work and research (i.e. introductory text on your work, notes, bibiliography, etc)
 
 ## Language Protocol
 If you have your bio ready in both Chinese and English, please upload both versions. If one version is provided, Biyi can help with a translation with your final approval. 

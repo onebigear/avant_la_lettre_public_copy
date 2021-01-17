@@ -27,5 +27,5 @@ __Subfolder__: text, bio.txt (bio.txt as a placeholder file, you are welcome to 
 If you have your bio ready in both Chinese and English, please upload both versions. If one version is provided, Biyi can help with a translation with your final approval. 
 
 ## Help  
-If you'd like to use Git for the first time, Biyi can offer a quick help session :)
+If there is anything unclear, please contact Biyi. 
 

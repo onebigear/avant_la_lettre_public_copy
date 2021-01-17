@@ -1,30 +1,41 @@
 # avant la lettre: media archaeology cn
 
-Language is a technology. Plato's Phaedrus is a classic reference that questioned the affordances of speech, writing, and rhetorics in a series of dialogues between Socrates and Phaedrus, a possibly invented interlocutor to embody Plato's message in conversational form. "Language is a technology" is not only a statement inserted on immaterial planes such as philosophy, but is deeply grounded in a materialist trajectory. In Phaedrus, Plato used material metaphors, albeit rudimentary, to refer to writing and speech as processes alienating knowledge and soul from their essences. "Then he will not seriously incline to "write his thoughts 'in water' with pen and ink, sowing words which can neither speak for themselves nor teach the truth adequately to others?" metaphorically contrasts the shallowness of written words and the profound irreplacable nature of knowledge and soul in their essential forms. The messages from Plato were not only to be contested and enriched by thinkers and the concepts that they've brought forth, most notably the concept of grammatology by Jacques Derrida, and further decomposition of writing by Vilém Flusser; but also by the technological advancements  that weave together an infrastructure to facilatate the circulation of written words. The infrastructure consisted of analog writing technologies such as paper, mechanical i/o technologies such as the typewriter, and digital i/o technologies such as the computer. 
+Writing is a technology. Plato's Phaedrus is a classical reference that questioned the affordances of speech, writing, and rhetorics in a series of dialogues between Socrates and Phaedrus, an invented interlocutor to embody Plato's message in conversational form. In the conversation, Socrates regarded writing as a process alienating knowledge and soul from their essences; "Then he will not seriously incline to 'write' his thoughts 'in water' with pen and ink, sowing words which can neither speak for themselves nor teach the truth adequately to others?" metaphorically casted writing as a shallow, imperfect representation of knowledge and soul, profound and perfect in their essential Forms. Plato's critique towards writing is rooted in his idealist belief that all thoughts originated from the perfect Forms, and that writing only produced an imperfect copy of thought, thus a twice mediated copy of a copy. On the other hand, writing as a technology present questions not only inserted to metaphysics, but is deeply grounded in a materialist trajectory. 
 
-<!---This will be further editted after looking into Of Grammatology
+The technological advancements that weave together a set of infrastructures to facilatate written words enrich and contest Plato's phonocentrism. These advancements include more sophisticated  techniques applied in paper production, and inventions that transformatively re-mediated writing processes, crudely put, typewriter and keyboard computer. As Mattew Kirschenbaum provided a grammatology of the hard drive as a storage device, writing technologies deserved a grammatological reading.  
 	
-In the West, the written word is organized using the alphabet system, such as the Roman alphabet. In writing cultures mediated not by the alphabet, it is a whole different story. The program specifically revolves around the culture and technology surrounding the Chinese language. Organized by ideograms, the technological developments made for circulating Chinese text, exist in complex relationship to the West. The differentiations are both immaterial and material. Immaterial, as in how the ideogram writing system organize abstract thinking; material, as in how hardware developments in technology adapts to the ideogram writing system from prototypes that based on Western alphabets. Examples such as the early Chinese typewriter with ideogram inputs, and i/o systems developed since personal computing to transform QWERTY keyboard inputs to ideogram based characters. The choice to focus on a non-western writing technology is attempt to map out, how the conception of race may be technologically conditioned. Too often we know race as a definitive notion, associated with relatively fixed parameters: national and regional borders, biological traits, and cultural customs stereotypically performed by designated racial groups. The project is an attempt to unravel the notion of race with a processual, rather than the definitive manner, by choosing the Chinese writing technology as a field of investigation. "Avant la lettre" not only reflects that the project deals with "letters", but also refers to the diverse practices with relation to Chinese writing technologies in an archaeological manner, but may not have been formally presented or recognized by the Western media archaeology context. --->
+Does phonocentrism lead to ethnocentrism? The alphabet is a basis from which the written word is organized by sequentially putting together symbols that correspond to a word as spoken. This phonocentric correlation is limited to alphabetically mediated writing cultures. As a public program, avant la lettre: media archaeology cn revolves around the writing culture and technology of Chinese, a language organized by visual ideograms. The program will take a look into how the technological developments made for circulating Chinese written text exist in relationship with its counterparts in the West, and how does the invention and usage of these writing technologies condition the notion of race in a processual manner, rather than by definitive categories such as racial or national profiles.
+
+The program is curated with three topics, repectively titled Hardware and Software, Input / Output, and Publishing Surfaces. Hardware and Software takes a preliminary look into archival projects dedicated for hardwares and the softwares developed and adapted during unique timeframes. Input / Output zooms into an historical and anecdotal episode revolving around Chinese Input and Output technology, which in predominant scenarios, translates alphabetical keyboard inputs to ideogram based characters. Finally, Publishing Surfaces leaps to the intermedia publishing practices that directly or subtly reflects materialities of Chinese written text. 
 
 
 # Program and Panelists:
 
 ## Hardware and Software
 {$date}
+
 {$agenda}
+
 Sid Zhang {$bio}
+
 PengAn Zhou {$bio}
 
 ## Input / Output
 {$date}
+
 {$agenda}
+
 Zijie Li {$bio}
 
 ## Publishing Surfaces
 {$date}
+
 {$agenda}
+
 Yuchen Chang {$bio}
+
 Xin Wei {$bio}
+
 Haoran Xu {$bio}
 
 # Publication

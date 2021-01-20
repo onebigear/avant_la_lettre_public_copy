@@ -27,6 +27,8 @@ PengAn Zhou {$bio}
 
 Zijie Li {$bio}
 
+Gehao Zhang {$bio}
+
 ## Publishing Surfaces
 {$date}
 

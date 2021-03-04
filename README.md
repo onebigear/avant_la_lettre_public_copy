@@ -46,7 +46,7 @@ Mark Amerika {$bio}
 
 Yuchen Chang {$bio}
 
-Xin Wei {$bio}
+Wei Xin {$bio}
 
 Haoran Xu {$bio}
 
@@ -85,7 +85,38 @@ The program is generously supported by the MAL x Race and Technology Micro Grant
 北京时间3月13日（周六）上午10:30
 美国山地时间3月12日（周五）下午7:30
 
+## 硬件和软件
+{$date}
 
+{$agenda}
+
+汤圆 {$bio}
+
+周蓬岸 {$bio}
+
+
+
+## 出版界面
+{$date}
+
+{$agenda}
+
+马克 阿梅里克 {$bio}
+
+常羽辰 {$bio}
+
+辛未 {$bio}
+
+徐浩然 {$bio}
+
+
+# 出版物
+
+A publication will be editted and published to serve as archival documentation, including recording of the panel discussions translated to text, and further information shared by panelists on their work. 
+
+
+# 鸣谢
+本次活动得到了科罗拉多博尔德大学媒体考古实验室的种族与技术资助计划的慷慨支持。媒体考古学实验室位于传统Arapaho，Cheyenne和Ute Nations地区。
 
 通过www.DeepL.com/Translator（免费版）翻译
 

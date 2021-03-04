@@ -119,7 +119,10 @@ A publication will be editted and published to serve as archival documentation, 
 # 鸣谢
 本次活动得到了科罗拉多博尔德大学媒体考古实验室的种族与技术资助计划的慷慨支持。媒体考古学实验室位于传统Arapaho，Cheyenne和Ute Nations地区。
 
+![](MAL_logo-B&W.svg)
+
 通过www.DeepL.com/Translator（免费版）翻译
+
 
 
 

@@ -11,6 +11,23 @@ The program is curated with three topics, repectively titled Hardware and Softwa
 
 # Program and Panelists:
 
+## Input / Output
+
+Agenda: 
+“Input / Output” serves as both an opening statement and lays out a foundational apparatus for “avant la letter: media archaeology cn”. The panel invites two panelists, Zijie Li and Gehao Zhang, who both conduct research in Chinese input and output technology and materialize their output in the forms of theorization and publishing.
+
+Zijie Li is an alternative comics maker, typographer and an activist. “Chinese Word Processor: writing, power, capital and technology” is an ongoing research that embodies Zijie’s interest in writing tools and writing environments. The work presents a narrative meandering through interwoven subjects and events: early entrepreneurial history of the Stone Typewriter as a piece of dusted public record; and the acclaimed novelist Wang Xiaobo’s relationship to Chinese text processing by the ways of his self-programmed text editor, and family relation to a relative who was involved in the Chinese text input business.
+
+Gehao Zhang is an assistant professor in Macau University of Science and Technology. As a scholar in media archaeology, Gehao will lead us through a trajectory of Chinese text display development, as materialized by artifacts such as the analog Chinese typewriters and the hardware and software for digital Chinese text processing. Gehao will not only unravel a trajectory illustrated by rich material artifacts, but also lay out a interpretive framework coming from the most current theories from media archaeology.
+
+Time: 
+Friday, March 12th 7:30 PM (Mountain Time)
+Saturday, March 13th 10:30 AM (China Standard Time)
+
+Zijie Li {$bio}
+
+Gehao Zhang {$bio}
+
 ## Hardware and Software
 {$date}
 
@@ -20,14 +37,7 @@ Sid Zhang {$bio}
 
 PengAn Zhou {$bio}
 
-## Input / Output
-{$date}
 
-{$agenda}
-
-Zijie Li {$bio}
-
-Gehao Zhang {$bio}
 
 ## Publishing Surfaces
 {$date}
@@ -50,15 +60,25 @@ A publication will be editted and published to serve as archival documentation, 
 The program is generously supported by the MAL x Race and Technology Micro Grants, 2020-2021. 
 
 
+# avant la lettre: 中文文字考古
+
+写作是一种技术。柏拉图的《费德鲁斯》是一个经典的提法，在苏格拉底和费德鲁斯之间的一系列对话中，对语言、写作和修辞的承受能力提出了质疑，费德鲁斯是一个发明的对话者，以对话的形式体现柏拉图的信息。在对话中，苏格拉底将写作视为将知识和灵魂从本质上异化的过程，"那么他就不会认真地倾向于用笔墨将自己的思想'写在水里'，播撒既不能自圆其说，也不能将真理充分地教给别人的文字吗？"将写作隐喻为知识和灵魂的浅薄的、不完美的表现，深刻而完美的本质形式。柏拉图对写作的批判源于一种唯心主义的信念，即所有的思想都源于完美的形式，而写作只是产生了思想的不完美的复制品，因此是复制品的两次中介。
+
+写作作为一种技术，不仅关注形而上学的平面，而且带有独特的唯物主义轨迹。技术进步编织了一套基础设施，使书面文字得以实现，不断丰富和挑战着柏拉图的语音中心主义--这是一个新词，指的是言语优于文字。这些进步包括更复杂的纸张生产技术，以及改变写作过程的发明，粗略地说是打字机和键盘计算机。正如Matthew Kirschenbaum为作为存储设备的硬盘提供了一个语法学，写作技术也应该得到一个语法学的解读。 
+	
+语音中心主义是否会导致民族中心主义？字母表是一个基础，在这个基础上，通过依次拼凑出与口语中的一个词相对应的符号来组织书面语。这种语音中心主义的关联仅限于以字母为媒介的书写文化。作为一档公共节目，_avant la lettre: media archaeology cn_围绕着以视觉象形文字组织的中国文字文化和技术展开。该项目将探讨中国书面文字的技术发展如何与西方同行的关系，以及这些书写技术的发明和使用如何以一种过程性的方式，而不是以固定的参数来确定种族的概念。
+
+节目由三个主题策划，分别为硬件与软件、输入/输出和出版表面。硬件与软件 "将初步探讨专门针对硬件的档案项目，以及在特定时间段内开发和调整的软件。输入/输出 "则是围绕着中文输入和输出技术的历史和轶事，在主要的场景中，它将字母键盘输入转化为基于图形的字符。最后，"出版面 "跃进到直接或微妙地反映中文书面文本的物质性的媒介出版实践。
+
+
+
+# 论坛主题和讲者
 
 
 
 
 
-
-
-
-
+通过www.DeepL.com/Translator（免费版）翻译
 
 
 

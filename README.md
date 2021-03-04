@@ -22,11 +22,9 @@ Gehao Zhang is an assistant professor in Macau University of Science and Technol
 
 Time: 
 Friday, March 12th 7:30 PM (Mountain Time)
+
 Saturday, March 13th 10:30 AM (China Standard Time)
 
-Zijie Li {$bio}
-
-Gehao Zhang {$bio}
 
 ## Hardware and Software
 {$date}
@@ -74,7 +72,18 @@ The program is generously supported by the MAL x Race and Technology Micro Grant
 
 # 论坛主题和讲者
 
+## 输入 / 输出
 
+"输入/输出"是"avant la letter: 中文文字媒体考古"论坛的第一期讲座。输入/输出是对论坛的整体开题，也为论坛铺垫了基础的架构。这次讲座有幸邀请了两位对中文输入和显示技术有所研究的讲者，李子杰和章戈浩，他们分别在理论生产和出版领域工作。
+
+李子杰是一个漫画家、印刷工作者和行动者。现进行中的研究计划《中文文字处理机:写作、权力、资本及技术》体现了李子杰对书写工具和书写环境的长期关注。这项计划展现了一张将具有不同主题和性质的事件的相互交织的叙事网络：如作为公众记忆的四通打字机早期创业史，和鲜为人知的个人历史，如王小波和中文文字的两项隐秘关联：由自己编写的文档编辑器，和他的一位日后从事中文输入法开发的亲戚。
+
+章戈浩老师现任澳门科技大学的助理教授。作为一位媒体考古学学者，章老师将带我们走进中文显示的发展历史：例如早期中文机械打字机，和用于电子中文输入的硬件和软件。章老师的叙述不仅涵盖了对中文显示发展在物质方面的梳理，同时也将通过思辨性地吸收媒体考古学学科中前沿的理论，来建构对中文显示媒体的理论框架。
+
+
+时间:
+北京时间3月13日（周六）上午10:30
+美国山地时间3月12日（周五）下午7:30
 
 
 

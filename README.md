@@ -57,6 +57,8 @@ A publication will be editted and published to serve as archival documentation, 
 
 # Colophon
 The program is generously supported by the MAL x Race and Technology Micro Grants, 2020-2021. 
+![](MAL_logo-W&B.svg)
+
 
 ![](input_output_cn.gif)
 # avant la lettre: 中文文字考古

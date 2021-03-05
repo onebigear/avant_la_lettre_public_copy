@@ -26,6 +26,16 @@ Friday, March 12th 7:30 PM (Mountain Time)
 
 Saturday, March 13th 10:30 AM (China Standard Time)
 
+Venue:
+Join Zoom Meeting
+https://cuboulder.zoom.us/j/91401536983
+
+Meeting ID: 914 0153 6983
+Passcode: lalettre
+
+Join by SIP
+91401536983@zoomcrc.com
+
 
 ## Hardware and Software
 {$date}
@@ -87,6 +97,12 @@ The program is generously supported by the MAL x Race and Technology Micro Grant
 时间:
 北京时间3月13日（周六）上午10:30
 美国山地时间3月12日（周五）下午7:30
+
+点击进入zoom视频会议
+https://cuboulder.zoom.us/j/91401536983
+
+会议ID: 914 0153 6983
+会议密码：lalettre
 
 ## 硬件和软件
 {$date}

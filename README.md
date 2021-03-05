@@ -67,10 +67,10 @@ A publication will be editted and published to serve as archival documentation, 
 
 # Colophon
 The program is generously supported by the MAL x Race and Technology Micro Grants, 2020-2021. 
-![](MAL_logo-W&B.svg)
+![](/img/MAL_logo-W&B.svg)
 
 
-![](img/input_output_cn.gif)
+![](/img/input_output_cn.gif)
 # avant la lettre: 中文文字考古
 
 写作是一种技术。柏拉图的《斐德罗篇》是一个古典的例子。其中，在苏格拉底和斐德罗之间的一系列对话中，对语言、写作和修辞的承受能力提出了质疑，斐德罗是一个被发明的对话者，为了以对话的形式体现原作者柏拉图的信息。在对话中，苏格拉底将写作视为将知识和灵魂从本质上异化的过程，"那么他就不会认真地倾向于用笔墨将自己的思想'写在水里'，播撒既不能自圆其说，也不能将真理充分地教给别人的文字吗？"将写作隐喻为知识和灵魂的浅薄的、不完美的表现，深刻而完美的本质形式。柏拉图对写作的批判源于一种唯心主义的信念，即所有的思想都源于完美的形式，而写作只是产生了思想的不完美的复制品，因此是复制品的两次中介。
@@ -137,7 +137,7 @@ A publication will be editted and published to serve as archival documentation, 
 # 鸣谢
 本次活动得到了科罗拉多博尔德大学媒体考古实验室的种族与技术资助计划的慷慨支持。媒体考古学实验室位于传统Arapaho，Cheyenne和Ute Nations地区。
 
-![](MAL_logo-B&W.svg)
+![](/img/MAL_logo-B&W.svg)
 
 通过www.DeepL.com/Translator（免费版）翻译
 

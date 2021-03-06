@@ -61,6 +61,9 @@ Wei Xin {$bio}
 
 Haoran Xu {$bio}
 
+# N.B. on language
+"avant la lettre: media archaeology cn" is supported by a small grant and limited hours of operation. Since the main objective is to make space for "media media archaeolgy cn" in the English speaking community, the panel discussions will be conducted in English. While a panelist communicates in Mandarin, asynchronous interpretation will be provided. 
+
 # Publication
 
 A publication will be editted and published to serve as archival documentation, including recording of the panel discussions translated to text, and further information shared by panelists on their work.   
@@ -81,8 +84,7 @@ The program is generously supported by the MAL x Race and Technology Micro Grant
 
 节目由三个主题策划，分别为输入/输出，硬件与软件、和出版界面。“输入/输出”则是围绕着中文输入和输出技术的历史和轶事，在主要的场景中，它将字母键盘输入转化为基于图形的字符。“硬件与软件”将初步探讨专门针对硬件的档案项目，以及在特定时间段内开发和调整的软件。最后，“出版界面” 跃进到直接或微妙地反映中文书面文本的物质性的媒介出版实践。
 
-
-
+ 
 # 论坛主题和讲者
 
 ## 输入 / 输出
@@ -128,6 +130,9 @@ https://cuboulder.zoom.us/j/91401536983
 
 徐浩然 {$bio}
 
+# 讲座使用语言
+"avant la lettre: 中文文字媒体考古" 是通过一个微小的基金和有限的时间运作。因为主要目的是为中文媒体考古在英文社群中扩大空间，讲座通过英文进行。当讲者通过中文分享时，讲座会提供非共时的翻译。
+ 
 
 # 出版物
 

@@ -3,6 +3,11 @@
 
 ## Table of Contents
 * [Introduction](##introduction)
+* [Program and Panelists:](##program-and-panelists)
+* [Input / Output](###input--output)
+* [Hardware and Software](###hardware-and-software)
+* [Publishing Surfaces](###publishing-surfaces)
+
 
 ## <a name="introduction"></a> Introduction
 Writing is a technology. Plato's Phaedrus is a classical reference that questioned the affordances of speech, writing, and rhetorics in a series of dialogues between Socrates and Phaedrus, an invented interlocutor to embody Plato's message in conversational form. In the conversation, Socrates regarded writing as a process alienating knowledge and soul from their essences; "Then he will not seriously incline to 'write' his thoughts 'in water' with pen and ink, sowing words which can neither speak for themselves nor teach the truth adequately to others?" metaphorically casted writing as a shallow, imperfect representation of knowledge and soul, profound and perfect in their essential Forms. Plato's critique towards writing is rooted in an idealist belief that all thoughts originated from the perfect Forms, and writing only produced an imperfect copy of thought, thus a twice mediated copy of a copy. 

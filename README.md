@@ -1,6 +1,10 @@
 ![](/img/input_output_en.gif)
 # avant la lettre: media archaeology cn
 
+##Table of Contents
+* [introduction](##introduction)
+
+##<a name="introduction"></a>Introduction
 Writing is a technology. Plato's Phaedrus is a classical reference that questioned the affordances of speech, writing, and rhetorics in a series of dialogues between Socrates and Phaedrus, an invented interlocutor to embody Plato's message in conversational form. In the conversation, Socrates regarded writing as a process alienating knowledge and soul from their essences; "Then he will not seriously incline to 'write' his thoughts 'in water' with pen and ink, sowing words which can neither speak for themselves nor teach the truth adequately to others?" metaphorically casted writing as a shallow, imperfect representation of knowledge and soul, profound and perfect in their essential Forms. Plato's critique towards writing is rooted in an idealist belief that all thoughts originated from the perfect Forms, and writing only produced an imperfect copy of thought, thus a twice mediated copy of a copy. 
 
 Writing as a technology is not only a concern for the plane of metaphysics, but carries a unique materialist trajectory. The technological advancements that weave together a set of infrastructures to facilatate written words continue to enrich and contest Plato's phonocentrism - a neologism  refering to the superiority placed upon speech over writing. These advancements include more sophisticated techniques in paper production, and inventions that transformatively re-mediated writing processes, crudely put, typewriters and keyboard computers. As Matthew Kirschenbaum provided a grammatology of the hard drive as a storage device, writing technologies deserved a grammatological reading.  
@@ -10,9 +14,9 @@ Does phonocentrism lead to ethnocentrism? The alphabet is a basis from which the
 The program is curated with three topics, repectively titled Hardware and Software, Input / Output, and Publishing Surfaces. Hardware and Software takes a preliminary look into archival projects dedicated for hardwares and the softwares developed and adapted during unique timeframes. Input / Output zooms into an historical and anecdotal episode revolving around Chinese Input and Output technology, which, in predominant scenarios, translates alphabetical keyboard inputs to pictogram based characters. Finally, Publishing Surfaces leaps to the intermedia publishing practices that directly or subtly reflects materialities of Chinese written text. 
 
 
-# Program and Panelists:
+## Program and Panelists:
 
-## Input / Output
+### Input / Output
 
 Agenda: 
 “Input / Output” serves as both an opening statement and lays out a foundational apparatus for “avant la letter: media archaeology cn”. The panel invites two panelists, Zijie Li and Gehao Zhang, who both conduct research in Chinese input and output technology and materialize their output in the forms of theorization and publishing.
@@ -37,7 +41,7 @@ Join by SIP
 91401536983@zoomcrc.com
 
 
-## Hardware and Software
+### Hardware and Software
 {$date}
 
 {$agenda}
@@ -48,7 +52,7 @@ PengAn Zhou {$bio}
 
 
 
-## Publishing Surfaces
+### Publishing Surfaces
 {$date}
 
 {$agenda}
@@ -61,14 +65,14 @@ Wei Xin {$bio}
 
 Haoran Xu {$bio}
 
-# N.B. on language
+## N.B. on language
 "avant la lettre: media archaeology cn" is supported by a small grant and limited hours of operation. Since the main objective is to make space for "media media archaeolgy cn" in the English speaking community, the panel discussions will be conducted in English. While a panelist communicates in Mandarin, asynchronous interpretation will be provided. 
 
-# Publication
+## Publication
 
 A publication will be editted and published to serve as archival documentation, including recording of the panel discussions translated to text, and further information shared by panelists on their work.   
 
-# Colophon
+## Colophon
 The program is generously supported by the MAL x Race and Technology Micro Grants, 2020-2021. 
 ![](/img/MAL_logo-W&B.svg)
 
@@ -85,9 +89,9 @@ The program is generously supported by the MAL x Race and Technology Micro Grant
 节目由三个主题策划，分别为输入/输出，硬件与软件、和出版界面。“输入/输出”则是围绕着中文输入和输出技术的历史和轶事，在主要的场景中，它将字母键盘输入转化为基于图形的字符。“硬件与软件”将初步探讨专门针对硬件的档案项目，以及在特定时间段内开发和调整的软件。最后，“出版界面” 跃进到直接或微妙地反映中文书面文本的物质性的媒介出版实践。
 
  
-# 论坛主题和讲者
+## 论坛主题和讲者
 
-## 输入 / 输出
+### 输入 / 输出
 
 "输入/输出"是"avant la letter: 中文文字媒体考古"论坛的第一期讲座。输入/输出是对论坛的整体开题，也为论坛铺垫了基础的架构。这次讲座有幸邀请了两位对中文输入和显示技术有所研究的讲者，李子杰和章戈浩，他们分别在理论生产和出版领域工作。
 
@@ -106,7 +110,7 @@ https://cuboulder.zoom.us/j/91401536983
 会议ID: 914 0153 6983
 会议密码：lalettre
 
-## 硬件和软件
+### 硬件和软件
 {$date}
 
 {$agenda}
@@ -117,7 +121,7 @@ https://cuboulder.zoom.us/j/91401536983
 
 
 
-## 出版界面
+### 出版界面
 {$date}
 
 {$agenda}
@@ -130,16 +134,16 @@ https://cuboulder.zoom.us/j/91401536983
 
 徐浩然 {$bio}
 
-# 讲座使用语言
+## 讲座使用语言
 "avant la lettre: 中文文字媒体考古" 是通过一个微小的基金和有限的时间运作。因为主要目的是为中文媒体考古在英文社群中扩大空间，讲座通过英文进行。当讲者通过中文分享时，讲座会提供非共时的翻译。
  
 
-# 出版物
+## 出版物
 
 A publication will be editted and published to serve as archival documentation, including recording of the panel discussions translated to text, and further information shared by panelists on their work. 
 
 
-# 鸣谢
+## 鸣谢
 本次活动得到了科罗拉多博尔德大学媒体考古实验室的种族与技术资助计划的慷慨支持。媒体考古学实验室位于传统Arapaho，Cheyenne和Ute Nations地区。
 
 ![](/img/MAL_logo-B&W.svg)

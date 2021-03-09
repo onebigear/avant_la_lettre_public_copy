@@ -1,10 +1,10 @@
 ![](/img/input_output_en.gif)
 # avant la lettre: media archaeology cn
 
-##Table of Contents
-* [introduction](##introduction)
+## Table of Contents
+* [Introduction](##introduction)
 
-##<a name="introduction"></a>Introduction
+## <a name="introduction"></a> Introduction
 Writing is a technology. Plato's Phaedrus is a classical reference that questioned the affordances of speech, writing, and rhetorics in a series of dialogues between Socrates and Phaedrus, an invented interlocutor to embody Plato's message in conversational form. In the conversation, Socrates regarded writing as a process alienating knowledge and soul from their essences; "Then he will not seriously incline to 'write' his thoughts 'in water' with pen and ink, sowing words which can neither speak for themselves nor teach the truth adequately to others?" metaphorically casted writing as a shallow, imperfect representation of knowledge and soul, profound and perfect in their essential Forms. Plato's critique towards writing is rooted in an idealist belief that all thoughts originated from the perfect Forms, and writing only produced an imperfect copy of thought, thus a twice mediated copy of a copy. 
 
 Writing as a technology is not only a concern for the plane of metaphysics, but carries a unique materialist trajectory. The technological advancements that weave together a set of infrastructures to facilatate written words continue to enrich and contest Plato's phonocentrism - a neologism  refering to the superiority placed upon speech over writing. These advancements include more sophisticated techniques in paper production, and inventions that transformatively re-mediated writing processes, crudely put, typewriters and keyboard computers. As Matthew Kirschenbaum provided a grammatology of the hard drive as a storage device, writing technologies deserved a grammatological reading.  

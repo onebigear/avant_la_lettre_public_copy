@@ -2,16 +2,16 @@
 # avant la lettre: media archaeology cn
 
 ## Table of Contents / 目录
-* [Introduction](##introduction)
-* [简介](##简介)
-* [Program and Panelists](##program-and-panelists)
-* [论坛主题和讲者](##论坛主题和讲者)
-* [N.B. on language](##nb-on-language)
-* [讲座使用语言](##讲座使用语言)
-* [Publication](##publication)
-* [出版物](##出版物)
-* [Colophon](##colophon)
-* [鸣谢](##鸣谢)
+* [Introduction](#introduction)
+* [简介](#简介)
+* [Program and Panelists](#program-and-panelists)
+* [论坛主题和讲者](#论坛主题和讲者)
+* [N.B. on language](#nb-on-language)
+* [讲座使用语言](#讲座使用语言)
+* [Publication](#publication)
+* [出版物](#出版物)
+* [Colophon](#colophon)
+* [鸣谢](#鸣谢)
 
 ## Introduction
 Writing is a technology. Plato's Phaedrus is a classical reference that questioned the affordances of speech, writing, and rhetorics in a series of dialogues between Socrates and Phaedrus, an invented interlocutor to embody Plato's message in conversational form. In the conversation, Socrates regarded writing as a process alienating knowledge and soul from their essences; "Then he will not seriously incline to 'write' his thoughts 'in water' with pen and ink, sowing words which can neither speak for themselves nor teach the truth adequately to others?" metaphorically casted writing as a shallow, imperfect representation of knowledge and soul, profound and perfect in their essential Forms. Plato's critique towards writing is rooted in an idealist belief that all thoughts originated from the perfect Forms, and writing only produced an imperfect copy of thought, thus a twice mediated copy of a copy. 

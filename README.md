@@ -1,15 +1,19 @@
 ![](/img/input_output_en.gif)
 # avant la lettre: media archaeology cn
 
-## Table of Contents
+## Table of Contents / 目录
 * [Introduction](##introduction)
-* [Program and Panelists:](##program-and-panelists)
-* [Input / Output](###input--output)
-* [Hardware and Software](###hardware-and-software)
-* [Publishing Surfaces](###publishing-surfaces)
+* [简介](##简介)
+* [Program and Panelists](##program-and-panelists)
+* [论坛主题和讲者](##论坛主题和讲者)
+* [N.B. on language](##nb-on-language)
+* [讲座使用语言](##讲座使用语言)
+* [Publication](##publication)
+* [出版物](##出版物)
+* [Colophon](##colophon)
+* [鸣谢](##鸣谢)
 
-
-## <a name="introduction"></a> Introduction
+## Introduction
 Writing is a technology. Plato's Phaedrus is a classical reference that questioned the affordances of speech, writing, and rhetorics in a series of dialogues between Socrates and Phaedrus, an invented interlocutor to embody Plato's message in conversational form. In the conversation, Socrates regarded writing as a process alienating knowledge and soul from their essences; "Then he will not seriously incline to 'write' his thoughts 'in water' with pen and ink, sowing words which can neither speak for themselves nor teach the truth adequately to others?" metaphorically casted writing as a shallow, imperfect representation of knowledge and soul, profound and perfect in their essential Forms. Plato's critique towards writing is rooted in an idealist belief that all thoughts originated from the perfect Forms, and writing only produced an imperfect copy of thought, thus a twice mediated copy of a copy. 
 
 Writing as a technology is not only a concern for the plane of metaphysics, but carries a unique materialist trajectory. The technological advancements that weave together a set of infrastructures to facilatate written words continue to enrich and contest Plato's phonocentrism - a neologism  refering to the superiority placed upon speech over writing. These advancements include more sophisticated techniques in paper production, and inventions that transformatively re-mediated writing processes, crudely put, typewriters and keyboard computers. As Matthew Kirschenbaum provided a grammatology of the hard drive as a storage device, writing technologies deserved a grammatological reading.  
@@ -85,6 +89,7 @@ The program is generously supported by the MAL x Race and Technology Micro Grant
 ![](/img/input_output_cn.gif)
 # avant la lettre: 中文文字考古
 
+## 简介
 写作是一种技术。柏拉图的《斐德罗篇》是一个古典的例子。其中，在苏格拉底和斐德罗之间的一系列对话中，对语言、写作和修辞的承受能力提出了质疑，斐德罗是一个被发明的对话者，为了以对话的形式体现原作者柏拉图的信息。在对话中，苏格拉底将写作视为将知识和灵魂从本质上异化的过程，"那么他就不会认真地倾向于用笔墨将自己的思想'写在水里'，播撒既不能自圆其说，也不能将真理充分地教给别人的文字吗？"将写作隐喻为知识和灵魂的浅薄的、不完美的表现，深刻而完美的本质形式。柏拉图对写作的批判源于一种唯心主义的信念，即所有的思想都源于完美的形式，而写作只是产生了思想的不完美的复制品，因此是复制品的两次中介。
 
 写作作为一种技术，不仅关注形而上学的平面，而且带有独特的唯物主义轨迹。技术进步编织了一套基础设施，使书面文字得以实现，不断丰富和挑战着柏拉图的语音中心主义--这是一个新词，指的是言语优于文字。这些进步包括更复杂的纸张生产技术，以及改变写作过程的发明，粗略地说是打字机和键盘计算机。正如Matthew Kirschenbaum为作为存储设备的硬盘提供了一个语法学，写作技术也应该得到一个语法学的解读。 

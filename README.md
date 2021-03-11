@@ -68,10 +68,6 @@ PengAn Zhou {$bio}
 
 Mark Amerika {$bio}
 
-Yuchen Chang {$bio}
-
-Wei Xin {$bio}
-
 Haoran Xu {$bio}
 
 ## N.B. on language
@@ -136,11 +132,7 @@ https://cuboulder.zoom.us/j/91401536983
 
 {$agenda}
 
-马克 阿梅里克 {$bio}
-
-常羽辰 {$bio}
-
-辛未 {$bio}
+Mark Amerika {$bio}
 
 徐浩然 {$bio}
 

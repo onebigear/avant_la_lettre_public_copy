@@ -39,16 +39,6 @@ Friday, March 12th 7:30 PM (Mountain Time)
 
 Saturday, March 13th 10:30 AM (China Standard Time)
 
-Venue:
-Join Zoom Meeting
-https://cuboulder.zoom.us/j/91401536983
-
-Meeting ID: 914 0153 6983
-Passcode: lalettre
-
-Join by SIP
-91401536983@zoomcrc.com
-
 
 ### Hardware / Software
 
@@ -58,7 +48,9 @@ Hardware / Software will open up a series of overlaying mediations from hardware
 Hardware / Software will revolve around two archival projects to re-contextualize the Kittler's materialist approach on digitally written text: "Computer museum in the web" by Peng'An Zhou, and "Archaeology of Education Computers" by Sid Zhang. Computer museum in the web will run demos of early hardware and operating systems that had Chinese text processing capability, such as UCDOS 7.0, SUBOR SB486, and BBGCDOS. Sid Zhang will introduce us to a kaleidoscopic range of models from "Archaeology of Education Computer", a video channel that Sid maintains on bilibili.com. 
 
 Panelists:
+
 Pengan Zhou:
+
 Pengan Zhou is a software developer as well as researcher and influencer of retro computing and related culture. When he was a student, he is an active member of Chinese PDA user group. He was relocated to Canada in 2009 then get in touch with demoscene and retro computing groups.
 
 In 2016 he starts the “vintage computer room” writing project on Chinese Q&A social network Zhihu, which is the first Chinese column which focus on retro computing and related technology culture topics like demoscene, chip music, DIY and open source software and hardware.
@@ -66,16 +58,13 @@ In 2016 he starts the “vintage computer room” writing project on Chinese Q&A
 In 2018 he builds the online computer museum “dnbwg.com”, which is the first Chinese website using web-based emulators to demonstrate how older computers systems working. Later this website also provides in-browser experience of early online system, for example CFido was the Chinese dial-up BBS network running in 1990s and InfoHighway is the very first ISP available to the public in China mainland.
 
 Sid Zhang:
+
 Sid, a retro game fan. As a user back to his childhood, he used to communicate with the manufacturers of “Education Computer (a Nintendo Famicom clone product)” in Mainland China and therefore he possesses some materials. His interests in this historically abandoned item got intensified as he grew up. As a vlogger of bilibili.com in his spare time, he will share his channel ‘Archaeology of Education Computer’, and the brief history of the development of this industry in China during the 1990s.
 
 Time:
 Friday, March 12th 8:30 PM (Mountain Time)
 
 Saturday, March 13th 10:30 AM (China Standard Time)
-
-
-
-
 
 
 ### Publishing Surfaces
@@ -89,6 +78,18 @@ Haoran Xu {$bio}
 
 ## N.B. on language
 "avant la lettre: media archaeology cn" is supported by a small grant and limited hours of operation. Since the main objective is to make space for "media media archaeolgy cn" in the English speaking community, the panel discussions will be conducted in English. While a panelist communicates in Mandarin, asynchronous interpretation will be provided. 
+
+## Zomm Meeting Link
+
+Venue:
+Join Zoom Meeting
+https://cuboulder.zoom.us/j/91401536983
+
+Meeting ID: 914 0153 6983
+Passcode: lalettre
+
+Join by SIP
+91401536983@zoomcrc.com
 
 ## Publication
 
@@ -127,11 +128,7 @@ The program is generously supported by the MAL x Race and Technology Micro Grant
 北京时间3月13日（周六）上午10:30
 美国山地时间3月12日（周五）下午7:30
 
-点击进入zoom视频会议
-https://cuboulder.zoom.us/j/91401536983
 
-会议ID: 914 0153 6983
-会议密码：lalettre
 
 ### 硬件和软件
 {$date}
@@ -152,6 +149,14 @@ https://cuboulder.zoom.us/j/91401536983
 Mark Amerika {$bio}
 
 徐浩然 {$bio}
+
+## Zoom 会议链接
+
+点击进入zoom视频会议
+https://cuboulder.zoom.us/j/91401536983
+
+会议ID: 914 0153 6983
+会议密码：lalettre
 
 ## 讲座使用语言
 "avant la lettre: 中文文字媒体考古" 是通过一个微小的基金和有限的时间运作。因为主要目的是为中文媒体考古在英文社群中扩大空间，讲座通过英文进行。当讲者通过中文分享时，讲座会提供非共时的翻译。

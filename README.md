@@ -50,14 +50,31 @@ Join by SIP
 91401536983@zoomcrc.com
 
 
-### Hardware and Software
-{$date}
+### Hardware / Software
 
-{$agenda}
+Agenda: 
+Hardware / Software will open up a series of overlaying mediations from hardware to software and vice versa, regarding to Chinese language input and output. The context of the program will provide a slightly more saturated field and elastic approach to reinterpret the German media theorist Friedrich Kittler's pronouncement: "There Is No Software". The eponymous article had departed from a materialist reading towards written text: written text no longer exists in time and space as can be directly perceived, but exist throughout a series of abstractions which will boil down voltage differences. As much as "There Is No Software" is provocative, the series of abstractions through which digitally written text is mediated are interlocking - from the word processor software to the operating system the software runs under, and from the input and output system the operating system runs under: WordPerfect < Microsoft DOS < BIOS. 
 
-Sid Zhang {$bio}
+Hardware / Software will revolve around two archival projects to re-contextualize the Kittler's materialist approach on digitally written text: "Computer museum in the web" by Peng'An Zhou, and "Archaeology of Education Computers" by Sid Zhang. Computer museum in the web will run demos of early hardware and operating systems that had Chinese text processing capability, such as UCDOS 7.0, SUBOR SB486, and BBGCDOS. Sid Zhang will introduce us to a kaleidoscopic range of models from "Archaeology of Education Computer", a video channel that Sid maintains on bilibili.com. 
 
-PengAn Zhou {$bio}
+Panelists:
+Pengan Zhou:
+Pengan Zhou is a software developer as well as researcher and influencer of retro computing and related culture. When he was a student, he is an active member of Chinese PDA user group. He was relocated to Canada in 2009 then get in touch with demoscene and retro computing groups.
+
+In 2016 he starts the “vintage computer room” writing project on Chinese Q&A social network Zhihu, which is the first Chinese column which focus on retro computing and related technology culture topics like demoscene, chip music, DIY and open source software and hardware.
+
+In 2018 he builds the online computer museum “dnbwg.com”, which is the first Chinese website using web-based emulators to demonstrate how older computers systems working. Later this website also provides in-browser experience of early online system, for example CFido was the Chinese dial-up BBS network running in 1990s and InfoHighway is the very first ISP available to the public in China mainland.
+
+Sid Zhang:
+Sid, a retro game fan. As a user back to his childhood, he used to communicate with the manufacturers of “Education Computer (a Nintendo Famicom clone product)” in Mainland China and therefore he possesses some materials. His interests in this historically abandoned item got intensified as he grew up. As a vlogger of bilibili.com in his spare time, he will share his channel ‘Archaeology of Education Computer’, and the brief history of the development of this industry in China during the 1990s.
+
+Time:
+Friday, March 12th 8:30 PM (Mountain Time)
+
+Saturday, March 13th 10:30 AM (China Standard Time)
+
+
+
 
 
 

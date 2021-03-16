@@ -1,0 +1,48 @@
+Input / Output translation reference doc
+
+QQ 劲舞团: QQ Dance, a video game released in 2008. 
+
+王辑志 Wang Jizhi, inventor of the Stone MS2401 Text Processor. Wang was the eldest son of Wang Li, a linguist, and also a relative to Wang Xiaobo, an acclaimed writer. There is loads of information online, about the Wang family's history, and entrepreneurial anecdotes on Stone. Wang has a twitter account (not maintained), and a blog in Chinese. 
+links: 
+    https://twitter.com/wjzbj
+    http://blog.sina.com.cn/wangjizhi
+    https://www.sohu.com/a/234824814_117373
+    https://www.pku.org.cn/memory/bdjw/83964.htm
+
+王小波 Wang Xiaobo was an acclaimed Chinese writer who studied and taught economics, but had a professional writing career while he taught at university. The novels that he published during the 80s and 90s, until his sudden death in 1997, had a great impact in and outside of the literary world.  He had studied computer programming on his own and helped his friends to develop software and won an award for that*. Likewise, the text editor that Wang used for his writing, was programmed by himself. This anecdote had been mentioned in an interview, while Wang was filmed sitting in front of his desktop and typing. 
+*王小波学习计算机语言，曾和几位同事为北京煤气工程公司开发管理软件，该项目获得了北京市科技进步3等奖[Wang's wiki page]
+
+姚勇 Yao Yong was a member of the band "水木年华"，"Age of Water and Wood", and at the same time a programmer and the developer for QQ Dance. He was the nephew to Wang Xiaobo, and the anecdote of Wang persuading Yao not to pursue a professional career in music was covered in the following linked articles. After Wang's persuasion, Yao studied Electrical Engineering, and had a career in music and software development at the same time. These articles are worth a read as they described how Wang developed text input and text processing software from the perspective of his nephew. 
+https://zhuanlan.zhihu.com/p/80653952 
+http://blog.sina.com.cn/s/blog_4ae281f80100088m.html
+
+万润南 Wan Runnan Wan was an engineer, and the founder of the Stone Corporation - for disambiguation,  Wang Jizhi was the inventor of the typewriter, and Wan was the founder of the company. Wan  Runnan had attended the same university as Hu Jintao, who later became president of the PRC. His ex-wife was the daughter of Liu Shaoqi. He lived in exile since 1989 in France. 
+
+小黑屋 Dark Room Writing environments that intends to minimize external distraction. There are various software / extension instances that implement this idea. 
+
+武汉 Wuhan City in China that is divided North/South by the Yangtze River, a river that flows across the country and feed into East China Sea. 
+
+周有光 Zhou Youguang / Chou Yu-kuang / Chou Yao-ping. Zhou was known as "the father of Pinyin", a system that maps the writing of Chinese Mandarin to the roman alphabet. 
+
+拼音 Pinyin The system maps the writing of Chinese Mandarin to the roman alphabet. It was designed by Zhou Youguang and adopted by the PRC government in 1958. 
+
+闲鱼 Xianyu An app used in China to do second hand trade. On this app you can scout second hand vintage electronics. 
+
+微博 Weibo Microblogging platform released 2009. 
+
+胡锦涛 Hu Jintao President of PRC from 2003 - 2013. He went to the same university as Wan Runnan. 
+
+刘少奇 Liu Shaoqi High ranking CCP official prior to the 70s. 
+
+刘涛 Liu Tao Studied automation and worked at the Beijing Railway Bureau. Liu was the daughter of Liu Shaoqi and ex-wife of Wan Runnan. 
+
+字库 Character Bank Repository to store character sets. 
+
+字词处理" Processing of characters and words",  expression proposed by Zhou Youguang as alternative to "word processing". 
+
+广西玉林 Yulin, Guanggxi A city in Guangxi Province, which is also administratively named as Guangxi Zhuang Autonomous Region. It is an autonomous region because, it's inhabited by the largest population of China's ethnic minority people. Hence, many languages are spoken by the province's inhabitants other than the Chinese Mandarin.  
+
+玉林话 Yulin Dialect Dialect spoken in Yulin City (has some kind of relevance to Cantonese. )
+
+博白 Bobai / Pokpak A county under Yulin City. Wang Li's native origin. As a linguist Wang Li has done research on the local Dialect. 
+

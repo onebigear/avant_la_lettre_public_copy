@@ -35,6 +35,7 @@ Zijie Li is an alternative comics maker, typographer and an activist. “Chinese
 Gehao Zhang is an assistant professor in Macau University of Science and Technology. As a scholar in media archaeology, Gehao will lead us through a trajectory of Chinese text display development, as materialized by artifacts such as the analog Chinese typewriters and the hardware and software for digital Chinese text processing. Gehao will not only unravel a trajectory illustrated by rich material artifacts, but also lay out a interpretive framework coming from the most current theories from media archaeology.
 
 Time: 
+
 Friday, March 12th 7:30 PM (Mountain Time)
 
 Saturday, March 13th 10:30 AM (China Standard Time)
@@ -62,6 +63,7 @@ Sid Zhang:
 Sid, a retro game fan. As a user back to his childhood, he used to communicate with the manufacturers of “Education Computer (a Nintendo Famicom clone product)” in Mainland China and therefore he possesses some materials. His interests in this historically abandoned item got intensified as he grew up. As a vlogger of bilibili.com in his spare time, he will share his channel ‘Archaeology of Education Computer’, and the brief history of the development of this industry in China during the 1990s.
 
 Time:
+
 Friday, March 12th 8:30 PM (Mountain Time)
 
 Saturday, March 13th 10:30 AM (China Standard Time)
@@ -125,19 +127,42 @@ The program is generously supported by the MAL x Race and Technology Micro Grant
 
 
 时间:
+
 北京时间3月13日（周六）上午10:30
+
 美国山地时间3月12日（周五）下午7:30
 
 
 
-### 硬件和软件
-{$date}
+### 硬件 / 软件
 
-{$agenda}
 
-汤圆 {$bio}
+硬件/软件 “会更深入地关注中文文字处理的相关硬件与软件之间的的关系。这里讨论的内容将提供一个更细化和弹性的方法来重新解释德国媒体理论家费德里希 基特勒的声明--"没有软件”。基特勒的同名文章曾从物质主义的角度对书面文本作出解读：书面文本不再存在于可以直接感知的时间和空间中，而是存在于整个一系列的抽象中，这些抽象将归结为电压差。正如 "没有软件 “这篇文章中所说，以数字书写文本为媒介的一系列抽象是环环相扣的--从文字处理软件到软件所运行的操作系统，再到操作系统所运行的输入输出系统。WordPerfect < Microsoft DOS < BIOS. 
 
-周蓬岸 {$bio}
+硬件/软件将围绕两个线上的档案项目，重新诠释基特勒对于数字化文字的唯物主义解读，包括周鹏岸的 “网页里的电脑博物馆 "和汤圆的 “学习机考古”。“网页里的电脑博物馆 ”将展示早期中文文字处理功能是如何在例如UCDOS 7.0、小霸王SB486学习机、步步高操作系统等软硬件中实现的。电脑学习机考古 "是一个b站频道，汤圆将为大家介绍 “学习机考古 “频道中多样化的学习机模型。
+
+
+讲者：
+
+周蓬岸：
+
+周蓬岸是一位软件工程师，同时也是复古计算及相关文化的研究者和传播者。在他的学生时期，曾经是中文PDA用户社群的活跃成员。他在2009年移居加拿大后接触到演示场景和复古计算团体。
+
+在2016年他在中文问答社交网络知乎上启动了名为“古董电脑室”的写作计划，这是第一个专注于复古计算及相关文化现象，如演示场景、芯片音乐、DIY和开源软硬件的中文专栏。
+
+在2018年他搭建了线上电脑博物馆dnbwg.com，是第一个是用基于网页的模拟器展示老式电脑运作的中文网站。稍后这一网站也提供在浏览器中体验老式在线系统的服务，比如1990年代的中文拨号BBS网络CFido，以及中国大陆最早向公众开放的互联网接入商瀛海威时空。 
+
+
+汤圆：
+
+汤圆，怀旧游戏爱好者，因儿时作为国内电脑学习机用户曾与相关厂商有一些书信往来、保留了一些资料，后来随着年龄增长，渐渐培养出收集和研究这一行业的历史材料的兴趣爱好。作为一名B站up主，他将与我们分享他开办的“电脑学习机考古”频道，以及中国内地90年代的电脑学习机发展简史。
+
+
+时间：
+
+北京时间3月13日（周六）上午10:30
+
+美国山地时间3月12日（周五）下午8:30
 
 
 

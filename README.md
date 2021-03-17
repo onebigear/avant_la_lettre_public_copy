@@ -1,4 +1,3 @@
-![](/img/input_output_en.gif)
 # avant la lettre: media archaeology cn
 
 ## Table of Contents / 目录
@@ -27,6 +26,8 @@ The program is curated with three topics, repectively titled Hardware and Softwa
 
 ### Input / Output
 
+![](/img/input_output_en.gif)
+
 Agenda: 
 “Input / Output” serves as both an opening statement and lays out a foundational apparatus for “avant la letter: media archaeology cn”. The panel invites two panelists, Zijie Li and Gehao Zhang, who both conduct research in Chinese input and output technology and materialize their output in the forms of theorization and publishing.
 
@@ -42,6 +43,8 @@ Saturday, March 13th 10:30 AM (China Standard Time)
 
 
 ### Hardware / Software
+
+![](/img/hs_poster.gif)
 
 Agenda: 
 Hardware / Software will open up a series of overlaying mediations from hardware to software and vice versa, regarding to Chinese language input and output. The context of the program will provide a slightly more saturated field and elastic approach to reinterpret the German media theorist Friedrich Kittler's pronouncement: "There Is No Software". The eponymous article had departed from a materialist reading towards written text: written text no longer exists in time and space as can be directly perceived, but exist throughout a series of abstractions which will boil down voltage differences. As much as "There Is No Software" is provocative, the series of abstractions through which digitally written text is mediated are interlocking - from the word processor software to the operating system the software runs under, and from the input and output system the operating system runs under: WordPerfect < Microsoft DOS < BIOS. 

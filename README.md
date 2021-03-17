@@ -65,9 +65,9 @@ Sid, a retro game fan. As a user back to his childhood, he used to communicate w
 
 Time:
 
-Friday, March 12th 8:30 PM (Mountain Time)
+Friday, March 19th 8:30 PM (Mountain Time)
 
-Saturday, March 13th 10:30 AM (China Standard Time)
+Saturday, March 20th 10:30 AM (China Standard Time)
 
 
 ### Publishing Surfaces
@@ -161,9 +161,9 @@ The program is generously supported by the MAL x Race and Technology Micro Grant
 
 时间：
 
-北京时间3月13日（周六）上午10:30
+北京时间3月20日（周六）上午10:30
 
-美国山地时间3月12日（周五）下午8:30
+美国山地时间3月19日（周五）下午8:30
 
 
 

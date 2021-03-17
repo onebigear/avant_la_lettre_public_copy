@@ -28,7 +28,6 @@ The program is curated with three topics, repectively titled Hardware and Softwa
 
 ![](/img/input_output_en.gif)
 
-Agenda: 
 “Input / Output” serves as both an opening statement and lays out a foundational apparatus for “avant la letter: media archaeology cn”. The panel invites two panelists, Zijie Li and Gehao Zhang, who both conduct research in Chinese input and output technology and materialize their output in the forms of theorization and publishing.
 
 Zijie Li is an alternative comics maker, typographer and an activist. “Chinese Word Processor: writing, power, capital and technology” is an ongoing research that embodies Zijie’s interest in writing tools and writing environments. The work presents a narrative meandering through interwoven subjects and events: early entrepreneurial history of the Stone Typewriter as a piece of dusted public record; and the acclaimed novelist Wang Xiaobo’s relationship to Chinese text processing by the ways of his self-programmed text editor, and family relation to a relative who was involved in the Chinese text input business.
@@ -46,7 +45,6 @@ Saturday, March 13th 10:30 AM (China Standard Time)
 
 ![](/img/hs_poster.gif)
 
-Agenda: 
 Hardware / Software will open up a series of overlaying mediations from hardware to software and vice versa, regarding to Chinese language input and output. The context of the program will provide a slightly more saturated field and elastic approach to reinterpret the German media theorist Friedrich Kittler's pronouncement: "There Is No Software". The eponymous article had departed from a materialist reading towards written text: written text no longer exists in time and space as can be directly perceived, but exist throughout a series of abstractions which will boil down voltage differences. As much as "There Is No Software" is provocative, the series of abstractions through which digitally written text is mediated are interlocking - from the word processor software to the operating system the software runs under, and from the input and output system the operating system runs under: WordPerfect < Microsoft DOS < BIOS. 
 
 Hardware / Software will revolve around two archival projects to re-contextualize the Kittler's materialist approach on digitally written text: "Computer museum in the web" by Peng'An Zhou, and "Archaeology of Education Computers" by Sid Zhang. Computer museum in the web will run demos of early hardware and operating systems that had Chinese text processing capability, such as UCDOS 7.0, SUBOR SB486, and BBGCDOS. Sid Zhang will introduce us to a kaleidoscopic range of models from "Archaeology of Education Computer", a video channel that Sid maintains on bilibili.com. 

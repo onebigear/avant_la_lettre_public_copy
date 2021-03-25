@@ -80,6 +80,8 @@ Created in 1997, GRAMMATRON was one of the major works in net art. The work cons
 
 10 Stories is a bilingual novel, consists of 10 stories that scrolls horizontally across the browser. As the stories are stacked vertically, they present themselves visible to the reader at one single interface. Various subtle features enabled the parallel scrolling and reading experience, such as the play with letter width, and signposts created in the reading interface.   
 
+The links leading to the works discussed in the program are: http://grammatron.com and https://xoesan.com/10stories/index.php
+
 
 Panelists:
 
@@ -94,6 +96,12 @@ Haoran Xu, an amateurish enthusiast of film and sound art, currently working wit
 
 ## N.B. on language
 "avant la lettre: media archaeology cn" is supported by a small grant and limited hours of operation. Since the main objective is to make space for "media media archaeolgy cn" in the English speaking community, the panel discussions will be conducted in English. While a panelist communicates in Mandarin, asynchronous interpretation will be provided. 
+
+Time: 
+
+Friday, March 26th 8:00 PM (Mountain Time)
+
+Saturday, March 27th 10:00 AM (China Standard Time)
 
 ## Zoom Meeting Link
 
@@ -181,9 +189,17 @@ The program is generously supported by the MAL x Race and Technology Micro Grant
 
 
 ### 出版界面
-{$date}
 
-{$agenda}
+前两次的讨论都涉及了文字的处理，作为这次讨论会最后一个环节，“出版界面” 将关注界面的处理。这次讨论将围绕着两个在网页界面中写作和出版的跨媒体小说 "GRAMMATRON" 和《10个故事》展开，分别这次的讲者，Mark Amerika和徐浩然。
+
+"GRAMMATRON"创作于1997年，是被记载在网络艺术史中重要作品之一。该作品由数千个有超链接连接而成网状页面组成，包含了文学和视觉内容。超链接的结构为读者提供了一种开放式的阅读体验，因为ta们能够决定自己的阅读路径。 
+
+《10个故事》是一个双语小说，它由10个故事组成，并浏览器中上水平滚动。同时，10个故事互相垂直堆叠，因此读者能同在一个界面上阅读这10个故事。作者设计了一些额外功能来实现使带有滚动视差的阅读体验，例如对文字宽度的宽度，以及在界面中设置的位置标记。 
+
+这次讨论的两个作品链接为：http://grammatron.com 和 https://xoesan.com/10stories/index.php
+
+
+讲者：
 
 Mark Amerika:
 
@@ -192,6 +208,14 @@ Mark Amerika:
 徐浩然:
 
 徐浩然，电影和声音业余爱好者，目前基于网页和平面形式创作。
+
+
+时间: 
+
+北京时间3月27日（周六）上午10:00
+
+美国山地时间3月26日（周五）下午8:00
+
 
 
 ## Zoom 会议链接

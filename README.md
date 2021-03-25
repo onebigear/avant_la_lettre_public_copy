@@ -71,18 +71,31 @@ Saturday, March 20th 10:30 AM (China Standard Time)
 
 
 ### Publishing Surfaces
-{$date}
 
-{$agenda}
+![](/img/publishing_surface.gif)
 
-Mark Amerika {$bio}
+As the prior two programs dealt with the processing of text, “Publishing Surfaces” will take us to the processing of interfaces. The program will center on the two intermedia novels published in the web interface, GRAMMATRON, and 10 Stories, respectively by the panelists Mark Amerika and Haoran Xu. 
 
-Haoran Xu {$bio}
+Created in 1997, GRAMMATRON was one of the major works in net art. The work consists of thousands of hyperlinked pages, containing text and visual web content. The hyperlinked structure provides the readers an open-ended reading experience, as they are able to determine their own reading paths.  
+
+10 Stories is a bilingual novel, consists of 10 stories that scrolls horizontally across the browser. As the stories are stacked vertically, they present themselves visible to the reader at one single interface. Various subtle features enabled the parallel scrolling and reading experience, such as the play with letter width, and signposts created in the reading interface.   
+
+
+Panelists:
+
+Mark Amerika:
+
+Mark Amerika is a digital artist, cult novelist, film director, media theorist and web publisher. He is the author of many books, among them The Kafka Chronicles, Sexual Blood, and most recently a collection of artist writings, META/DATA: A Digital Poetics. His artwork has been exhibited in several national and international venues, including the Whitney Biennial, the Walker Art Center, and the Institute of Contemporary Arts in London. His literary writing and artwork have been featured in Time Magazine, the New York Times, the Wall Street Journal, Die Zeit, the Guardian, and CNN Headline News. He is a Professor of Distinction at the University of Colorado at Boulder and Founding Director of the Doctoral Program in Intermedia Art, Writing and Performance in CU’s College of Media, Communication and Information. More information can be found at his website, http://www.markamerika.com. 
+
+
+Haoran Xu 
+
+Haoran Xu, an amateurish enthusiast of film and sound art, currently working with the medium of websites.
 
 ## N.B. on language
 "avant la lettre: media archaeology cn" is supported by a small grant and limited hours of operation. Since the main objective is to make space for "media media archaeolgy cn" in the English speaking community, the panel discussions will be conducted in English. While a panelist communicates in Mandarin, asynchronous interpretation will be provided. 
 
-## Zomm Meeting Link
+## Zoom Meeting Link
 
 Venue:
 Join Zoom Meeting
@@ -172,9 +185,14 @@ The program is generously supported by the MAL x Race and Technology Micro Grant
 
 {$agenda}
 
-Mark Amerika {$bio}
+Mark Amerika:
 
-徐浩然 {$bio}
+是一位数字艺术家、邪典小说家、电影导演、媒体理论家和网络出版人。他著有许多书，其中包括"The Kafka Chronicles", "Sexual Blood", 以及最近的一本艺术家著作集"META/DATA: A Digital Poetics"。他的艺术作品曾在多个国家和国际场所展出，包括惠特尼双年展、沃克艺术中心和伦敦当代艺术学院。他的文学创作和艺术作品曾在《时代》杂志、《纽约时报》、《华尔街日报》、《时代周报》（德国）、《卫报》和CNN头条新闻上发表。他是科罗拉多大学博尔德分校的杰出教授，也是媒体、传播和信息学院下跨媒体艺术、写作和表演博士项目的创始主任。更多信息可以在他的网站上找到，http://www.markamerika.com。
+
+徐浩然:
+
+徐浩然，电影和声音业余爱好者，目前基于网页和平面形式创作。
+
 
 ## Zoom 会议链接
 
